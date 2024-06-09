@@ -1,4 +1,4 @@
-# FlightSim Demo
+# FlightSim Mini
 
 This is my First Unreal Project to make Flight Simulator.
 
